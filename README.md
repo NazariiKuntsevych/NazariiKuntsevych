@@ -38,6 +38,18 @@
 <hr>
 
 <h3>
+    Certifications:
+</h3>
+
+<div>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=flat-square">
+    <br>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=flat-square">
+</div>
+
+<hr>
+
+<h3>
     <span>Some languages and tools I work with:</span>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="15">
 </h3>
