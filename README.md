@@ -13,16 +13,16 @@
 <div>
     <ul>
         <li>
-            Software Developer from Ukraine.
+            Software Engineer from Ukraine.
         </li>
         <li>
             Currently working at Ajax Systems.
         </li>
         <li>
-            Software Engineering student at Kyiv Polytechnic Institute.
+            Master's student in Software Engineering at Kyiv Polytechnic Institute.
         </li>
         <li>
-            Ask me about Python or Web Development.
+            Focusing on Go, Python, and AWS Cloud Architecture.
         </li>
         <li>
             I speak Ukrainian and English.
@@ -63,7 +63,7 @@
 
 <div>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,django,flask,fastapi,html,css,js,ts,vue,qt,mysql,postgres,mongo,aws,gcp,docker,jenkins,linux,bash,git&perline=10" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=aws,py,go,postgres,mysql,mongo,docker,linux,git,jenkins,django,fastapi,flask,ts,vue,qt&perline=8" alt="My Skills" />
     </a>
 </div>
 
